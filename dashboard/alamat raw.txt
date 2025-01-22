@@ -1,0 +1,12 @@
+1. https://github.com/natan-Coba/natan-analisa-udara/raw/refs/heads/main/PRSA_Data_Aotizhongxin_20130301-20170228.csv
+2. https://github.com/natan-Coba/natan-analisa-udara/raw/refs/heads/main/PRSA_Data_Changping_20130301-20170228.csv
+3. https://github.com/natan-Coba/natan-analisa-udara/raw/refs/heads/main/PRSA_Data_Dingling_20130301-20170228.csv
+4. https://github.com/natan-Coba/natan-analisa-udara/raw/refs/heads/main/PRSA_Data_Dongsi_20130301-20170228.csv
+5. https://github.com/natan-Coba/natan-analisa-udara/raw/refs/heads/main/PRSA_Data_Guanyuan_20130301-20170228.csv
+6. https://github.com/natan-Coba/natan-analisa-udara/raw/refs/heads/main/PRSA_Data_Gucheng_20130301-20170228.csv
+7. https://github.com/natan-Coba/natan-analisa-udara/raw/refs/heads/main/PRSA_Data_Huairou_20130301-20170228.csv
+8. https://github.com/natan-Coba/natan-analisa-udara/raw/refs/heads/main/PRSA_Data_Nongzhanguan_20130301-20170228.csv
+9. https://github.com/natan-Coba/natan-analisa-udara/raw/refs/heads/main/PRSA_Data_Shunyi_20130301-20170228.csv
+10. https://github.com/natan-Coba/natan-analisa-udara/raw/refs/heads/main/PRSA_Data_Tiantan_20130301-20170228.csv
+11. https://github.com/natan-Coba/natan-analisa-udara/raw/refs/heads/main/PRSA_Data_Wanliu_20130301-20170228.csv
+12. https://github.com/natan-Coba/natan-analisa-udara/raw/refs/heads/main/PRSA_Data_Wanshouxigong_20130301-20170228.csv
