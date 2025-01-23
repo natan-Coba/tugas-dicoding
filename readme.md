@@ -2,10 +2,6 @@
 
 project ini adalah tugas dengan melakukan analisa pada studi kasus menggunakan dataset untuk menganalisa kualitas udara
 
-# Project Analisis data - Dicoding
-
-project ini adalah tugas dengan melakukan analisa pada studi kasus menggunakan dataset untuk menganalisa kualitas udara
-
 ## Run Locally
 
 Clone the project
