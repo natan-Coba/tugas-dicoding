@@ -27,3 +27,12 @@ pipenv install
 pipenv shell
 pip install -r requirements.txt
 ```
+
+install visual streamlit
+
+```bash
+pip install streamlit
+pip install pandas
+pip install seaborn
+pip install matplotlib
+```
