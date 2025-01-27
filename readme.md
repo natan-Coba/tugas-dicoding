@@ -2,10 +2,6 @@
 
 project ini adalah tugas dengan melakukan analisa pada studi kasus menggunakan dataset untuk menganalisa kualitas udara
 
-# Project Analisis data - Dicoding
-
-project ini adalah tugas dengan melakukan analisa pada studi kasus menggunakan dataset untuk menganalisa kualitas udara
-
 ## Run Locally
 
 Clone the project
@@ -40,5 +36,5 @@ pip install matplotlib
 Running streamlit App
 
 ```bash
-https://natan-coba-tugas-dicoding-dashboarddashboard-icc1vr.streamlit.app/
+streamlit run dashboard.py
 ```
